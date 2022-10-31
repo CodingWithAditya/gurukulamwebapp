@@ -91,23 +91,14 @@ const Abouts = () => {
            <CARD
             text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,."
             name="Guruji "
-            image="avatar-4"
+            image="avtar-9"
           />
           <CARD
             text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
             name="acharya ji"
-            image="avatar-4"
+            image="avtar-9"
           />
-          <CARD
-            text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
-            name="othersr"
-            image="avatar-4"
-          />
-          <CARD
-            text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
-            name="others "
-            image="avatar-4"
-          />
+         
           
         
           
