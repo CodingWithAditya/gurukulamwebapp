@@ -214,43 +214,7 @@ const HeroSection = () => {
 
   return (
     <HomeSection id="home">
-      <Blobs>
-        <PinkBlob>
-          <img src={pinkBlob} alt="" width="400" height="400" />{" "}
-        </PinkBlob>
-        <WhiteBlob>
-          <img src={whiteBlob} alt="" width="400" height="400" />
-        </WhiteBlob>
-        <PurpleBlob>
-          <img src={purpleBlob} alt="" width="400" height="400" />
-        </PurpleBlob>
-      </Blobs>
-
-      <MainContent id="home">
-        <Lb id="leftBlock">
-          
-          <Title>श्रीनिवास आश्रम </Title>
-          <Topic>
-            <Circle/>
-           < SubText>
-            <span>जय श्रीमन्नारायण  </span>
-            </SubText>
-          </Topic>
-          
-          <CTA href="#about" onClick={(e) => scrollUp("best", e)}>
-            Get Started &nbsp;
-            <img src={arrow} alt="cta" width="100" height="100" />
-          </CTA>
-        </Lb>
-
-        <MobileSvg
-          src={Mobile}
-          alt="Mobile Svg"
-          srcset=""
-          width="400"
-          height="400"
-        />
-      </MainContent>
+     
     </HomeSection>
   );
 };
